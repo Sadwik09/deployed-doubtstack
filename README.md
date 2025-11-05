@@ -3,7 +3,6 @@
 A comprehensive Q&A platform designed specifically for college students and faculty to collaborate, solve doubts, and build a knowledge community.
 
 # Deployment
-
 https://doubtstack-frontend.vercel.app/
 
 ## 📋 Features
